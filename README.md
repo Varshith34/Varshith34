@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey there! I'm Varshith Naga
 
-<!--
-**Varshith34/Varshith34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 Final-Year B.Tech Computer Science student at Amrita Viishwa Vidhyapeetham
 
-Here are some ideas to get you started:
+☁️ Passionate about **Cloud Computing**, **AWS**, **AI**, and **Software Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Enthusiast in exploring scalable architectures and cutting-edge cloud technologies  
+
+🎯 **Goal**: To become a skilled **Cloud & Software Engineer** and contribute to building impactful, real-world tech solutions  
+
+---
+
+## 🛠️ Technologies & Skills  
+
+**💡 Languages:**  
+Python | Java | SQL  
+
+**☁️ Cloud & DevOps:**  
+AWS | Docker *(learning)* | Git  
+
+**📊 AI/ML Tools:**  
+NumPy | Pandas | Scikit-learn  
+
+**🔧 Databases & Tools:**  
+MongoDB | MySQL | Hadoop  
+
+**🧠 Soft Skills:**  
+Problem Solving | Teamwork | Adaptability  
+
+---
+
+## 🎉 Fun Facts  
+🏏 Cricket & 🏀 Basketball lover  
+🎮 Gamer | 🎵 Music junkie | 🌍 Loves exploring tech blogs & documentaries  
+
